@@ -1,0 +1,16 @@
+cd / -> diretório raiz
+ls -> lista diretório
+cd -> change directory
+ls -a -> mostra diretórios e arquivos ocultos
+clear -> limpa a tela
+mkdir -> make directory
+cd . -> referencia o diretório atual
+cd .. -> volta para o diretório pai/ referencia diretorio pai
+pwd -> mostra diretório completo/caminho
+cp -> cria copia no mesmo diretorio. ex: cp arquivo1.txt arqiovo2.txt
+cat -> concatenate -> mostra conteudo do arquivo
+mv -> mover arquivo p/ outro diretorio. ex: mv 'NomeArquivo' /NomeDiretorio
+rm -> remove -> ex: rm 'NomeArquivo'
+rmdir -> remove directory -> rmdir 'NomeDir'
+rm -rf -> remove dir incluido arquivos e subdir dentro (sem pedir permissão)
+
