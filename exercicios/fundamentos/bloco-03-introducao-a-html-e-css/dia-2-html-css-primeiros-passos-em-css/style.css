@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-size: 3em;
+    font-family: sans-serif;
+}
+body {
+    background-color: antiquewhite;
+    font-size: 16px;
+}
+#dados {
+    background-color: rgb(42, 153, 153);
+}
+.list_style {
+    color: rgb(160, 0, 0);
+    /* font-weight: bold; */
+    font-style: italic;
+    line-height: 20px;
+    /* text-align: center; */
+    /* text-decoration: underline; */
+    /* text-align: justify; */
+    /* text-decoration: ; */
+}
+p {
+    font-family: monospace;
+    /* font-size: 3em; */
+}
