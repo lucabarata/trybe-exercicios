@@ -6,7 +6,7 @@ for(index=2; index<=50; index+=1) {
     for(divisor=2; divisor<index; divisor+=1){
         if(index % divisor == 0) {
             numerosCompostos.push(index)
-
+            break;
         } else {
             numerosPrimos.push(index)
             break;
