@@ -1,0 +1,15 @@
+.titulo {
+    text-align: center;
+}
+li:hover {
+    background-color: green;
+}
+li:active {
+    color: rgb(245, 0, 0);
+}
+ul {
+    list-style: none;
+}
+ol {
+    list-style: none
+}
